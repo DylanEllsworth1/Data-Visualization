@@ -1,0 +1,101 @@
+Console,variable,value
+PlayStation 2,Units_sold,155000000
+Nintendo DS family,Units_sold,154002000
+Game Boy & Game Boy Color,Units_sold,118690000
+PlayStation 4,Units_sold,116400000
+PlayStation,Units_sold,102490000
+Wii,Units_sold,101630000
+Nintendo Switch,Units_sold,89040000
+PlayStation 3,Units_sold,87400000
+Xbox 360,Units_sold,84000000
+Game Boy Advance family,Units_sold,81510000
+PlayStation Portable,Units_sold,82000000
+Nintendo 3DS family,Units_sold,75940000
+Nintendo Entertainment System,Units_sold,61910000
+Xbox One,Units_sold,51000000
+Super Nintendo Entertainment System,Units_sold,49100000
+Nintendo 64,Units_sold,32930000
+Xbox,Units_sold,24000000
+GameCube,Units_sold,21740000
+Wii U,Units_sold,13560000
+PlayStation Vita,Units_sold,15000000
+PlayStation 5,Units_sold,10000000
+Xbox Series X/S,Units_sold,6500000
+Super NES Classic Edition,Units_sold,5280000
+Color TV-Game,Units_sold,3000000
+NES Classic Edition,Units_sold,2300000
+PlayStation 2,Type,Home
+Nintendo DS family,Type,Handheld
+Game Boy & Game Boy Color,Type,Handheld
+PlayStation 4,Type,Home
+PlayStation,Type,Home
+Wii,Type,Home
+Nintendo Switch,Type,Hybrid
+PlayStation 3,Type,Home
+Xbox 360,Type,Home
+Game Boy Advance family,Type,Handheld
+PlayStation Portable,Type,Handheld
+Nintendo 3DS family,Type,Handheld
+Nintendo Entertainment System,Type,Home
+Xbox One,Type,Home
+Super Nintendo Entertainment System,Type,Home
+Nintendo 64,Type,Home
+Xbox,Type,Home
+GameCube,Type,Home
+Wii U,Type,Home
+PlayStation Vita,Type,Handheld
+PlayStation 5,Type,Home
+Xbox Series X/S,Type,Home
+Super NES Classic Edition,Type,Dedicated
+Color TV-Game,Type,Dedicated
+NES Classic Edition,Type,Dedicated
+PlayStation 2,Company,Sony
+Nintendo DS family,Company,Nintendo
+Game Boy & Game Boy Color,Company,Nintendo
+PlayStation 4,Company,Sony
+PlayStation,Company,Sony
+Wii,Company,Nintendo
+Nintendo Switch,Company,Nintendo
+PlayStation 3,Company,Sony
+Xbox 360,Company,Microsoft
+Game Boy Advance family,Company,Nintendo
+PlayStation Portable,Company,Sony
+Nintendo 3DS family,Company,Nintendo
+Nintendo Entertainment System,Company,Nintendo
+Xbox One,Company,Microsoft
+Super Nintendo Entertainment System,Company,Nintendo
+Nintendo 64,Company,Nintendo
+Xbox,Company,Microsoft
+GameCube,Company,Nintendo
+Wii U,Company,Nintendo
+PlayStation Vita,Company,Sony
+PlayStation 5,Company,Sony
+Xbox Series X/S,Company,Microsoft
+Super NES Classic Edition,Company,Nintendo
+Color TV-Game,Company,Nintendo
+NES Classic Edition,Company,Nintendo
+PlayStation 2,Release,2000
+Nintendo DS family,Release,2004
+Game Boy & Game Boy Color,Release,1989
+PlayStation 4,Release,2013
+PlayStation,Release,1994
+Wii,Release,2006
+Nintendo Switch,Release,2017
+PlayStation 3,Release,2006
+Xbox 360,Release,2005
+Game Boy Advance family,Release,2001
+PlayStation Portable,Release,2004
+Nintendo 3DS family,Release,2011
+Nintendo Entertainment System,Release,1983
+Xbox One,Release,2013
+Super Nintendo Entertainment System,Release,1990
+Nintendo 64,Release,1996
+Xbox,Release,2001
+GameCube,Release,2001
+Wii U,Release,2012
+PlayStation Vita,Release,2011
+PlayStation 5,Release,2020
+Xbox Series X/S,Release,2020
+Super NES Classic Edition,Release,2017
+Color TV-Game,Release,1977
+NES Classic Edition,Release,2016
